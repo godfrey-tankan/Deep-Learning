@@ -3,3 +3,4 @@ librosa
 jupyter
 matplotlib
 resampy
+pandas
