@@ -1,0 +1,5 @@
+numpy
+librosa
+jupyter
+matplotlib
+resampy
